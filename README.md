@@ -1,3 +1,3 @@
-# Euler-s-totient-function
+# Euler's totient function algorithm
 
 
